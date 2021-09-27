@@ -13,6 +13,7 @@
 		C4F967702702660A006BF803 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C4F9676E2702660A006BF803 /* Main.storyboard */; };
 		C4F9677227026612006BF803 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C4F9677127026612006BF803 /* Assets.xcassets */; };
 		C4F9677527026612006BF803 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C4F9677327026612006BF803 /* LaunchScreen.storyboard */; };
+		C4F9677D27027A1F006BF803 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4F9677C27027A1F006BF803 /* DetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C4F9677127026612006BF803 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C4F9677427026612006BF803 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C4F9677627026612006BF803 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C4F9677C27027A1F006BF803 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				C4F9677127026612006BF803 /* Assets.xcassets */,
 				C4F9677327026612006BF803 /* LaunchScreen.storyboard */,
 				C4F9677627026612006BF803 /* Info.plist */,
+				C4F9677C27027A1F006BF803 /* DetailsViewController.swift */,
 			);
 			path = LandmarkBook;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				C4F9676D2702660A006BF803 /* ViewController.swift in Sources */,
 				C4F967692702660A006BF803 /* AppDelegate.swift in Sources */,
 				C4F9676B2702660A006BF803 /* SceneDelegate.swift in Sources */,
+				C4F9677D27027A1F006BF803 /* DetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
